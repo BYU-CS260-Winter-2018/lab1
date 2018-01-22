@@ -52,9 +52,10 @@ or other working environment.
 ## CSS Grid layout
 
 To learn how to make a simple grid, see [this article on getting
-started](https://css-tricks.com/getting-started-css-grid/).
+started](https://css-tricks.com/getting-started-css-grid/) and
+see [this tutorial](http://cssgridgarden.com/).
 
-If you would like to learn more about CSS grid layout, see [this
+You make also like [this
 tutorial at
 Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout).
 
