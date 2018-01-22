@@ -13,7 +13,8 @@ HTML and CSS. The website you build must include:
   a large image.
 
 * A portfolio page that showcases 9 or 10 images from the
-  photographer, using a CSS Grid layout to put them into a grid.
+  photographer, using a CSS Grid layout to put them into a
+  grid.
 
 * A reviews page that lists reviews from customers, each in a separate
   paragraph and using styles to separate them (white space, lines,
@@ -40,7 +41,7 @@ the Creative Commons license.
 ## Starting the lab
 
 To start the lab, you **must** follow this [GitHub Classroom
-link]. This will create a private repository for you using our
+link](https://classroom.github.com/a/rm4yMOLS). This will create a private repository for you using our
 classroom site. We will only grade repositories created and submitted
 this way.
 
@@ -52,10 +53,8 @@ or other working environment.
 ## CSS Grid layout
 
 To learn how to make a simple grid, see [this article on getting
-started](https://css-tricks.com/getting-started-css-grid/) and
-see [this tutorial](http://cssgridgarden.com/).
-
-You make also like [this
+started](https://css-tricks.com/getting-started-css-grid/) and see
+[this tutorial](http://cssgridgarden.com/). You make also like [this
 tutorial at
 Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout/Realizing_common_layouts_using_CSS_Grid_Layout).
 
