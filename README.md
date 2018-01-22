@@ -7,7 +7,7 @@ HTML and CSS. The website you build must include:
 
 * A footer that appears on all pages, which includes the URL to your
   GitHub repository on GitHub classroom. This should be a private
-  repository that only you adn the TAs can access.
+  repository that only you and the TAs can access.
 
 * A home page that introduces the viewer to the photographer, using
   a large image.
